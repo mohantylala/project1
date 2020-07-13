@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b4d313c-b309-4b6f-aee7-522ad8a27c4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eS9uJ7MhaQJwTETzGDahzDOHvT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app1/static/images" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Django Project Class\project1\app1\static\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="project1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="project1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b4d313c-b309-4b6f-aee7-522ad8a27c4b" name="Default Changelist" comment="" />
+      <created>1594304347759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594304347759</updated>
+      <workItem from="1594304349312" duration="589000" />
+      <workItem from="1594311486633" duration="7000" />
+      <workItem from="1594450117590" duration="1722000" />
+      <workItem from="1594451908855" duration="1763000" />
+      <workItem from="1594453734811" duration="1413000" />
+      <workItem from="1594456333868" duration="1784000" />
+      <workItem from="1594475956060" duration="1734000" />
+      <workItem from="1594477773005" duration="1772000" />
+      <workItem from="1594479603058" duration="1059000" />
+      <workItem from="1594481132718" duration="1508000" />
+      <workItem from="1594482684210" duration="1722000" />
+      <workItem from="1594484514855" duration="1766000" />
+      <workItem from="1594486338846" duration="476000" />
+      <workItem from="1594563902773" duration="1702000" />
+      <workItem from="1594565662665" duration="1780000" />
+      <workItem from="1594567493877" duration="1756000" />
+      <workItem from="1594569342357" duration="834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="493" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594567552878">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="493" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1594567552878" />
+    <state x="658" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594566945183">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="658" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1594566945183" />
+    <state x="686" y="190" key="FileChooserDialogImpl" timestamp="1594564779613">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="686" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1594564779613" />
+    <state width="1206" height="268" key="GridCell.Tab.0.bottom" timestamp="1594566330966">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1206" height="268" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594566330966" />
+    <state width="1206" height="268" key="GridCell.Tab.0.center" timestamp="1594566330966">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1206" height="268" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1594566330966" />
+    <state width="1206" height="268" key="GridCell.Tab.0.left" timestamp="1594566330966">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1206" height="268" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1594566330966" />
+    <state width="1206" height="268" key="GridCell.Tab.0.right" timestamp="1594566330966">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1206" height="268" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1594566330966" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1594567754948">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1594567754948" />
+    <state x="609" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1594567512305">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="609" y="264" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1594567512305" />
+  </component>
+</project>

@@ -1,0 +1,61 @@
+{% extends 'common.html' %}
+{% load static %}
+{% block common%}
+    <style>
+        .admin_login{
+            text-align: center;
+        }
+    </style>
+     <form action="{% url 'admin_check' %}" method="post">
+        {% csrf_token %}
+    <table align="center" border="0" bgcolor="#87cefa" >
+        <tr>
+            <th rowspan="5">
+                <img src="{% static 'images/admin.png' %}" height="200px" width="200px">
+            </th>
+        </tr>
+        <tr>
+            <th style="width: 300px;text-align: center;font-family: 'Agency FB';font-size: 30px">
+                Admin Login Page
+            </th>
+        </tr>
+        <tr>
+            <th class="admin_login">
+                <input type="text" placeholder="Username" name="t1" required>
+            </th>
+        </tr>
+         <tr>
+            <th class="admin_login">
+                <input type="password" placeholder="password" name="t2" required pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s).*$">
+            </th>
+        </tr>
+        <tr>
+            <th class="admin_login">
+                <button type="submit">Login</button>
+            </th>
+        </tr>
+
+        {% if message %}
+        <tr>
+            <th class="admin_login">
+
+             {{ message.error }}
+
+            </th>
+        </tr>
+        {% endif %}
+
+    </table>
+     </form>
+{% endblock%}
+
+
+
+
+
+
+
+
+
+
+
